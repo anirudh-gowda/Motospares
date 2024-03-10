@@ -19,3 +19,5 @@ CSS, PHP, MySQL.
 - Open any browser
 
 - URL:- localhost/index.php
+
+![Screenshot 2024-03-10 204353](https://github.com/anirudh-gowda/Motospares/assets/156525760/8f00ec9b-6255-4f23-be64-98b8cb9a6a1b)
