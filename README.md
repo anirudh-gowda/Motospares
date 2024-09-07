@@ -1,6 +1,6 @@
 # Motospares (E-commerce Website)
 
-Built a tool to buy spare parts of different motorcycle’s online by using HTML,
+Built a tool to buy spare parts for different motorcycles online by using HTML,
 CSS, PHP, MySQL.
 
 
@@ -10,9 +10,9 @@ CSS, PHP, MySQL.
 
 - Open XAMPP file -> htdocs
 
-- Paste all this flies in htdocs
+- Paste all these flies in htdocs
 
-- Run XAMPP-control application
+- Run the XAMPP-control application
 
 - Start the Apache and MySQL server
 
@@ -45,5 +45,5 @@ CSS, PHP, MySQL.
 -Cart Page
 ![Screenshot 2024-03-10 205435](https://github.com/anirudh-gowda/Motospares/assets/156525760/33c6cb0c-7c86-4ce9-81d5-e50131492b37)
 
--Aboutus Page
+-About us Page
 ![Screenshot 2024-03-10 205821](https://github.com/anirudh-gowda/Motospares/assets/156525760/f0690504-0e6f-4516-a18e-a98785bd1de3)
